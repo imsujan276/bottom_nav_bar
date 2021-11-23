@@ -1,20 +1,19 @@
 ![Pub](https://img.shields.io/pub/v/bottom_nav_bar) <a href="https://github.com/Solido/awesome-flutter">
     <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a> 
+<br>
 
-[![Latest compatibility result for Stable channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_nav_bar/badge?channel=stable)](https://pub.green/packages/bottom_nav_bar)
-[![Latest compatibility result for Beta channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_nav_bar/badge?channel=beta)](https://pub.green/packages/bottom_nav_bar)
-[![Latest compatibility result for Dev channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_nav_bar/badge?channel=dev)](https://pub.green/packages/bottom_nav_bar)
-
-<br><br>
-
-# BottomNavBar
+# bottom_nav_bar
 
 An easy-to-use and clean bottom navigation bar.
 
-| Preview 1 | Preview 1 | Preview 1 |
-|---------|----------|---------|
-|![Preview 1](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/1.gif) | ![Preview 2](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/2.gif) | ![Preview 3](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/3.gif) |
+| Preview 1 | Preview 2 |
+|---------|----------|
+|![Preview 1](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/1.gif) | ![Preview 2](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/2.gif) | 
+<br>
+| Preview 3 |
+|---------|
+|[Preview 3](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/3.gif) |
 
 ## Available Customization options
 
@@ -38,19 +37,11 @@ An easy-to-use and clean bottom navigation bar.
 - `activeBackgroundColor` - the active item's background color
 - `inactiveBackgroundColor` - the inactive item's background color
 
-## Getting Started
-
-Add the dependency in `pubspec.yaml`:
-
-```yaml
-dependencies:
-  ...
-  bottom_nav_bar: ^1.0.0
-```
-
 ## Basic Widget
 
 ```dart
+import 'package:bottom_nav_bar/bottom_nav_bar.dart';
+
 bottomNavigationBar: BottomNavBar(
         showElevation: true,
         selectedIndex: _currentIndex,
@@ -93,6 +84,8 @@ bottomNavigationBar: BottomNavBar(
 ## Full Example using IndexedStack
 
 ```dart
+import 'package:bottom_nav_bar/bottom_nav_bar.dart';
+
 class RootPage extends StatefulWidget {
   const RootPage({Key? key}) : super(key: key);
 

@@ -1,6 +1,6 @@
 name: bottom_nav_bar
-description: An easy-to-use and clean bottom navigation bar.
-version: 1.0.1
+description: An easy-to-use and clean bottom navigation bar with smooth transition. Easily integrate and customize it.
+version: 1.0.2
 homepage: https://github.com/imsujan276/bottom_nav_bar
 
 environment:
