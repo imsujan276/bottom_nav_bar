@@ -10,10 +10,9 @@ An easy-to-use and clean bottom navigation bar.
 | Preview 1 | Preview 2 |
 |---------|----------|
 |![Preview 1](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/1.gif) | ![Preview 2](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/2.gif) | 
-<br>
 | Preview 3 |
 |---------|
-|[Preview 3](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/3.gif) |
+| ![Preview 3](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/3.gif) |
 
 ## Available Customization options
 
