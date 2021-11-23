@@ -1,7 +1,6 @@
 ![Pub](https://img.shields.io/pub/v/bottom_nav_bar) <a href="https://github.com/Solido/awesome-flutter">
     <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a> 
-![Widget Tests](https://github.com/imsujan276/bottom_nav_bar/workflows/Widget%20Tests/badge.svg?branch=master)
 
 [![Latest compatibility result for Stable channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_nav_bar/badge?channel=stable)](https://pub.green/packages/bottom_nav_bar)
 [![Latest compatibility result for Beta channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_nav_bar/badge?channel=beta)](https://pub.green/packages/bottom_nav_bar)
@@ -11,12 +10,11 @@
 
 # BottomNavBar
 
-A beautiful and animated bottom navigation.
-The navigation bar uses your current theme, but you are free to customize it.
+An easy-to-use and clean bottom navigation bar.
 
 | Preview 1 | Preview 1 | Preview 1 |
 |---------|----------|---------|
-|(https://github.com/imsujan276/bottom_nav_bar/blob/master/images/1.gif) | (https://github.com/imsujan276/bottom_nav_bar/blob/master/images/2.gif) | (https://github.com/imsujan276/bottom_nav_bar/blob/master/images/3.gif) |
+|![Preview 1](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/1.gif) | ![Preview 2](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/2.gif) | ![Preview 3](https://github.com/imsujan276/bottom_nav_bar/blob/main/preview/3.gif) |
 
 ## Available Customization options
 
